@@ -1,81 +1,34 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
-  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
-  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
-  <action id="CheckinProject" />
-  <action id="CollapseSelection" />
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="Console.Execute.Multiline">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="f5" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
-  <action id="Database.OpenDbStorageAction" />
-  <action id="EditSource" />
-  <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
-    <keyboard-shortcut first-keystroke="shift f3" />
-  </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
-  </action>
-  <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
-    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
-  </action>
-  <action id="HelloPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
-  </action>
-  <action id="HelloWorldAction">
-    <keyboard-shortcut first-keystroke="shift alt h" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
-  <action id="Macro.Build and RestartIIS">
-    <keyboard-shortcut first-keystroke="f6" />
-  </action>
-  <action id="Macro.Pull-&gt;Build">
-    <keyboard-shortcut first-keystroke="f8" />
-  </action>
-  <action id="MethodDown" />
-  <action id="MethodUp" />
-  <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="alt down" />
-  </action>
-  <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
-  <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="ctrl back_slash" />
-  </action>
-  <action id="RebuildSolutionAction">
-    <keyboard-shortcut first-keystroke="f7" />
-  </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="Rider.Plugins.FSharp.SendToFsi" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="SaveDocument" />
-  <action id="ShowContent" />
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="f3" />
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
-  <action id="Vcs.Push" />
-  <action id="XDebugger.AttachToLocalProcess">
-    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
-    <keyboard-shortcut first-keystroke="f4" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
-  <action id="XDebugger.AttachToProcess">
-    <keyboard-shortcut first-keystroke="f4" />
+  <action id="UML.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
-  <action id="XDebugger.JumpToSource" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
