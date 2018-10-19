@@ -38,6 +38,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowContent" />
+  <action id="Tool_External Tools_RestartIIS">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
