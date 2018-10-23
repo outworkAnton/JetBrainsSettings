@@ -59,10 +59,12 @@
   </Objective-C-extensions>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
+    <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
   <codeStyleSettings language="XML">
+    <option name="RIGHT_MARGIN" value="255" />
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -149,7 +151,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
