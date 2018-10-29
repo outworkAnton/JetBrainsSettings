@@ -11,6 +11,8 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="EditSource" />
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -44,7 +46,12 @@
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.SetValue" />
 </keymap>
