@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="outwork.anton@gmail.com">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Convex Docker Registry" />
+      <option name="username" value="outwork" />
+    </DockerRegistry>
+  </component>
+</application>
