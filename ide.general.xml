@@ -15,5 +15,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="ide.scratch.in.project.view" value="false" />
   </component>
 </application>
