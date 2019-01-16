@@ -4,6 +4,7 @@
       <mapping ext="conf" type="Config" />
       <mapping ext="metricflowapp" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
