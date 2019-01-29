@@ -8,6 +8,12 @@
           <option name="namespace" value="outworkAnton" />
           <option name="sshUrl" value="git@gitlab.com:outworkAnton/MetricFlow.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/outworkAnton/MetricFlow.git" />
+          <option name="name" value="MetricFlow" />
+          <option name="namespace" value="outworkAnton" />
+          <option name="sshUrl" value="git@gitlab.com:outworkAnton/MetricFlow.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
