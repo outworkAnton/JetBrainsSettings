@@ -1,10 +1,20 @@
 <application>
   <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/outworkAnton/MetricFlow.git" />
+          <option name="name" value="MetricFlow" />
+          <option name="namespace" value="outworkAnton" />
+          <option name="sshUrl" value="git@gitlab.com:outworkAnton/MetricFlow.git" />
+        </ProjectDto>
+      </list>
+    </option>
     <option name="gitlabServers">
       <list>
         <GitlabServer>
-          <option name="apiToken" value="xsT26k3ayy6x5YBTFfzb" />
-          <option name="apiUrl" value="https://gitlab.com" />
+          <option name="apiToken" value="52NcRfkTKg-2YvW2c9_H" />
+          <option name="apiUrl" value="https://gitlab.com/" />
           <option name="removeSourceBranch" value="false" />
           <option name="repositoryUrl" value="gitlab.com" />
         </GitlabServer>
