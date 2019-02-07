@@ -14,8 +14,12 @@
           <option name="url" value="https://gitlab.com/outworkAnton/MetricFlow" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oloendithas.visualstudio.com/Uralsib/_git/Main" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/mnt/files/Git" />
+    <option name="cloneParentDir" value="C:\mnt\files\Git" />
   </component>
 </application>
