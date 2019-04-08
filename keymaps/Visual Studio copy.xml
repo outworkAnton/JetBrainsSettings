@@ -1,4 +1,7 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
@@ -14,7 +17,8 @@
   <action id="Console.TableResult.NavigateAction" />
   <action id="ContextHelp" />
   <action id="EditSource" />
-  <action id="Editor Paste">
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="Git.Reword.Commit">
