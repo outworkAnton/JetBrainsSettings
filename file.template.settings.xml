@@ -2,7 +2,11 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="WebApiController.cs" reformat="false" live-template-enabled="true" />
-      <template name="WebApiService.cs" reformat="false" live-template-enabled="true" />
+      <template name="WebApiService.cs" reformat="true" live-template-enabled="true" />
     </default_templates>
+    <includes_templates>
+      <template name="ControllerContent.cs" reformat="true" live-template-enabled="true" />
+      <template name="ServiceContent.cs" reformat="true" live-template-enabled="true" />
+    </includes_templates>
   </component>
 </application>
