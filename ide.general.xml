@@ -1,8 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
-    <option name="inactiveTimeout" value="30" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -12,8 +10,7 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="ide.mac.file.chooser.native" value="false" />
-    <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
-    <entry key="ide.scratch.in.project.view" value="false" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
