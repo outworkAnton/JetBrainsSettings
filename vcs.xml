@@ -25,4 +25,7 @@
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/Dev/AgentsDepartmentsIntegration" />
+  </component>
 </application>
