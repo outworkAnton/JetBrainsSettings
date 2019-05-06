@@ -1,10 +1,33 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://oloendithas.visualstudio.com/Uralsib/_git/Main" />
+          <option name="serverUri" value="https://oloendithas.visualstudio.com" />
+          <option name="userId" value="fd011c0f-b6b9-61b2-8f9d-fd4efd4f9d98" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;fc0cbd3e-442d-4f9c-b868-62e6267b9ebb&quot;,&quot;name&quot;:&quot;oloendithas&quot;,&quot;url&quot;:&quot;https://oloendithas.visualstudio.com/_apis/projectCollections/fc0cbd3e-442d-4f9c-b868-62e6267b9ebb&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;f544d5a1-53f7-479e-b117-358e1436cee2&quot;,&quot;name&quot;:&quot;Uralsib&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://oloendithas.visualstudio.com/_apis/projects/f544d5a1-53f7-479e-b117-358e1436cee2&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;6864c8cf-f759-4c48-93a5-e7fae85b8c13&quot;,&quot;name&quot;:&quot;Main&quot;,&quot;remoteUrl&quot;:&quot;https://oloendithas.visualstudio.com/Uralsib/_git/Main&quot;,&quot;url&quot;:&quot;https://oloendithas.visualstudio.com/_apis/git/repositories/6864c8cf-f759-4c48-93a5-e7fae85b8c13&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;f544d5a1-53f7-479e-b117-358e1436cee2&quot;,&quot;name&quot;:&quot;Uralsib&quot;,&quot;revision&quot;:21,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://oloendithas.visualstudio.com/_apis/projects/f544d5a1-53f7-479e-b117-358e1436cee2&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://oloendithas.visualstudio.com" />
+          <option name="serverUri" value="https://oloendithas.visualstudio.com" />
+          <option name="userId" value="fd011c0f-b6b9-61b2-8f9d-fd4efd4f9d98" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//oloendithas.visualstudio.com/uralsib/_git/main" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
