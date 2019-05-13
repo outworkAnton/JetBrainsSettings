@@ -86,6 +86,7 @@
         <configuration>
           <option name="allowTypingDuringDebug" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
+          <option name="shouldPromoteEditAndContinue" value="false" />
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
